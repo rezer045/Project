@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+div{
+    color: white;
+    background-color:red     ;
+    background-image: url('./Project/rudo.jpeg');
+    width:fit-content
+    
+}
+
+p{
+    padding: 10px;
+}
+
+img{
+    width:100px ;
+    height:100px ;
+}
+
+div{
+    margin: 15px;
+}
+
+div{
+    border:3px solid black
+}
+
+.over{
+    background-image: none;
+    width:50px;
+    height:50px;
+    color:black;
+    overflow:scroll
+    }
