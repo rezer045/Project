@@ -1,0 +1,23 @@
+h1 {
+   color: blue;
+   font-size: 30px;
+   text-align: center;
+}
+.highlight {
+   color: red;
+   font-size: 20px;
+}
+
+#Text{
+    color: black;
+    background-color: red;
+    width:fit-content
+}   
+
+.hi{
+    color: aqua;
+}
+
+#world{
+    color: black;
+}
