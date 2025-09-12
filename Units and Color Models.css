@@ -1,0 +1,16 @@
+.px{
+   width: 150px;
+   height: 150px;
+   background-color: black;
+}
+
+.box{
+    width: 55% ;
+    height: 55%;
+    background-color: red;
+}
+
+
+.text{
+    font-size: 2em;
+}
