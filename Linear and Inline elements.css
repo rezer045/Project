@@ -1,0 +1,42 @@
+.linear{
+    background-color: blue;
+}
+
+.linear2{
+    background-color: blue;
+}
+
+.linear3{
+    background-color: blue;
+}
+
+.Inline{
+    background-color: red;
+}
+
+.trsblock{
+    display: block;
+    background-color: red;
+}
+
+.trsinline{
+    display: inline;
+    background-color: blue;
+}
+
+.fin{
+    background-color: purple;
+    margin: 8px;
+}
+.trsblock2{
+    display: block;
+    margin: auto
+}
+
+.fin a{
+    margin:auto
+}
+
+.fin p{
+    margin: auto
+}
