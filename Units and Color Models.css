@@ -14,3 +14,21 @@
 .text{
     font-size: 2em;
 }
+
+.rem{
+    font-size: 3rem;
+}
+
+.hex{
+    color:#ff0000;
+    background-color:#0000ff;
+}
+
+.rgb{
+    color: rgb(52, 152, 219);
+    background-color:rgb(255, 0, 0);
+}
+
+.rgba{
+    background-color: rgba(52, 152, 219, 0.7);
+}
