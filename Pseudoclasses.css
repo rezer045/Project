@@ -1,0 +1,39 @@
+.click:hover {
+   background-color: #0056b3;
+}
+
+.type:focus{
+    background-color: #003d80;
+}
+
+.list:first-child{
+    font-weight: bold;
+}
+
+.list:last-child{
+    color:purple
+}
+
+.link:hover{
+    color: purple;
+}
+
+.link2:focus{
+    border-color: black;
+}
+
+.list2:nth-child(odd){
+    background-color: blue;
+}
+
+.list2:nth-child(even){
+    background-color: red;
+}
+
+.link3:first-child:hover{
+    color: purple
+}
+
+.link3:last-child:focus{
+    color: green;
+}
