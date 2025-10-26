@@ -1,0 +1,104 @@
+.Element1{
+    display:block;
+    background-color: red;
+}
+
+.Element2{
+    display:inline;
+    background-color: blue;
+}
+
+.Element3{
+    display:flex;
+    background-color: yellow;
+}
+
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: grey;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-flow:nowrap
+}
+
+.item {
+    background-color: blue;
+}
+
+.container2{
+    position:relative;
+    display:flex;
+}
+
+.flex{
+    justify-content: center;
+    align-items:row;
+    align-content:space-around;
+}
+
+.container3{
+    display:flex;
+}
+
+.Element4{
+    flex: 1 1 100;
+}
+
+.Element5{
+    flex: 2 2 200;
+}
+
+.Element6{
+    flex: 3 3 300;
+}
+
+.container4 {
+  display: flex;
+  width: 100%;
+  border: 2px solid #333;
+  height: 100px;
+}
+
+.Element7 {
+  background-color: #3498db;
+  flex: 0 0 50%; 
+}
+
+.Element8 {
+  background-color: #2ecc71;
+  flex: 1; 
+}
+
+.Element9 {
+  background-color: #e74c3c;
+  flex: 0 0 100px; 
+}
+
+.container5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container6{
+    display:flex;
+}
+
+.Element10{
+    height: 50px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-direction: column;
+}
+
+.Element11{
+    height:50px;
+    flex-grow:1;
+    flex-shrink:1;    
+    flex-direction: column;
+}
+
+
