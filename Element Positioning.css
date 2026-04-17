@@ -17,9 +17,8 @@
 .container{
     position:relative;
     width: 200px;
-    length: 200px;
-    border: 2px black;
-}
+    border: 2px solid black;
+}w
 
 .absolute{
     position:absolute;
